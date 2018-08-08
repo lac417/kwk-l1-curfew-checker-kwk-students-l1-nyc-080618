@@ -1,3 +1,4 @@
+puts "What time is it?"
 require_relative '../lib/curfew_checker.rb'
 describe "#simple_curfew_checker" do
 
